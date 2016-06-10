@@ -22,7 +22,26 @@
         <![endif]-->
     </head>
     <body>
+      <header class="container-fluid text-center row">
+        <h1 class="col-xs-12">Wikipedia Viewer</h1>
+      </header>
 
+      <section class="container text-center">
+        <div class="search-wrap">
+          <div class="input-group">
+            <input type="text" class="search form-control input-lg" placeholder="Search Wikipedia">
+            <span class="input-group-btn">
+                <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">
+                  <button class="random btn btn-warning input-lg" type="button">Random Article</button>
+                </a>
+            </span>
+          </div>
+        </div>
+      </section>
+
+      <section class="results container">
+
+      </section>
 
     </div> <!-- /container -->
         <script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
