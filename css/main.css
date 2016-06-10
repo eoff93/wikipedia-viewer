@@ -1,0 +1,41 @@
+html, body {
+  font-family: Georgia, serif; }
+
+/*
+	==============================
+	Styling
+	==============================
+*/
+h1 {
+  margin-top: 50px;
+  color: #556270; }
+
+.search-wrap {
+  margin-top: 30px; }
+
+.results {
+  margin-top: 10px; }
+
+.panel-alt {
+  border-left: 3px solid #C7F464; }
+
+.panel-heading {
+  background-color: #556270 !important;
+  color: #fff !important;
+  border-bottom: 1px solid #C7F464 !important;
+  -webkit-border-radius: 0 5px 0 0;
+  -moz-border-radius: 0 5px 0 0;
+  -ms-border-radius: 0 5px 0 0;
+  border-radius: 0 5px 0 0; }
+
+.panel-body {
+  color: #333; }
+
+.panel:hover {
+  border-left: 3px solid #FF6B6B;
+  cursor: pointer; }
+
+a:link {
+  text-decoration: none; }
+
+/*# sourceMappingURL=main.css.map */
