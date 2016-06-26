@@ -12,4 +12,6 @@ Made for freecodecamp Front End Certification.
 
 `git clone https://github.com/eoff93/wikipedia-viewer.git`
 
-Or check out the [preview] (http://htmlpreview.github.io/?https://github.com/eoff93/wikipedia-viewer/blob/master/index.html)
+Check it out on [Codepen] (http://codepen.io/eoff/pen/pyJbby).
+
+Or check out the [preview] (http://htmlpreview.github.io/?https://github.com/eoff93/wikipedia-viewer/blob/master/index.html).
